@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Analytics skills 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  me: linkedin: @ramakrishnaappajodu, instagram: @ark_sarma
+- 📫 How to reach me:  me: [linkedin: @ramakrishnaappajodu],[ instagram: @ark_sarma]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: chachipo 
 
