@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Analytics skills 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: linkedin:@ramakrishna-appajodu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:  me: linkedin: @ramakrishnaappajodu, instagram: @ark_sarma
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: chachipo 
 
 <!---
 Ramakrishna222/Ramakrishna222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
