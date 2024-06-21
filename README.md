@@ -6,7 +6,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: chachipo 
 
-<!---
-Ramakrishna222/Ramakrishna222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<MY TECHNICAl SKILLS
+Programming Languages: R Programming, Python, SQL
+Analysing Tools: Tableau, PowerBI, Excel
+Web Technologies: HTML, CSS, Java Script
+BIG DATA : Fundamentals of Apache Spark, scala
 --->
