@@ -6,9 +6,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: chachipo 
 
-<MY TECHNICAl SKILLS
-Programming Languages: R Programming, Python, SQL
-Analysing Tools: Tableau, PowerBI, Excel
-Web Technologies: HTML, CSS, Java Script
-BIG DATA : Fundamentals of Apache Spark, scala
---->
+ # MY TECHNICAl SKILLS
+ - **Programming Languages:** R Programming, Python, SQL
+- **Analysing Tools:** Tableau, PowerBI, Excel
+- **Web Technologies:** HTML, CSS, Java Script
+- **BIG DATA :** Fundamentals of Apache Spark, scala
