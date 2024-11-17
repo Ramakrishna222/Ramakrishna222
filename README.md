@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramakrishna222
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently pursing B.tech cse 
-- 💞️ I’m looking to collaborate on Data Analytics, R Programming, python and frontend
+- 💞️ I’m looking to collaborate on Data Analytics, R Programming, python and JAVA
 - 📫 How to reach me:  me: [linkedin:@ramakrishnaappajodu](https://www.linkedin.com/in/ramakrishna-appajodu/), [instagram: @ark_sarma](https://www.instagram.com/ark_sarma_/?hl=en)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: chachipo 
